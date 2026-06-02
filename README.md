@@ -11,7 +11,7 @@
 **Aplicação full stack para gestão de despesas e receitas pessoais.**  
 Autenticação JWT, CRUD completo, dashboard com gráficos, exportação CSV.
 
-[🌐 Frontend Demo](https://financeflow.vercel.app) · [📡 API Docs](#api) · [📧 Contato](mailto:danielamarallopescosta@gmail.com)
+[🌐 Frontend Demo](https://financeflow-red.vercel.app) · [📡 API Docs](#api) · [📧 Contato](mailto:danielamarallopescosta@gmail.com)
 
 </div>
 
